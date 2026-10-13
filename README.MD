@@ -51,7 +51,8 @@ Eclipse--->Project--->Properties--->C/C++ General--->Paths and symbols--->Symbol
 	Add symbol with name "STM32F103x6" (value does not matter)
 
 ## Project structure
-```project/ (root)
+```
+project/ (root)
 ├── cubemx/ (directorium for Eclipse workspace)
 │   └── code/ (Directorim for source code)
 │       ├── Core/
