@@ -51,7 +51,7 @@ Eclipse--->Project--->Properties--->C/C++ General--->Paths and symbols--->Symbol
 	Add symbol with name "STM32F103x6" (value does not matter)
 
 ## Project structure
-project/ (root)
+```project/ (root)
 ├── cubemx/ (directorium for Eclipse workspace)
 │   └── code/ (Directorim for source code)
 │       ├── Core/
@@ -65,7 +65,7 @@ project/ (root)
 ├──models/ (directorium for Autocad and Fusion models) 
 ├──simulations/ (directorium for python simulations) 
 └──doc/ (dorectoriuym for documentation and references) 
-
+```
 ## References and Documentation
 1. STM32F103 Cortex M3 Programming Manual
 2. STM32F103 Datasheet
