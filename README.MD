@@ -13,9 +13,9 @@ Software side of this project includes programming bare-metal in C, simulating h
 
 
 ## Prerequisits
-gnu mcu arm none eabi gcc 10.2.1-1.1
-gnu mcu build tools 4.2.1-2 win32-x64
-gnu mcu eclipse 2021 06 R win32 x64
+- gnu mcu arm none eabi gcc 10.2.1-1.1
+- gnu mcu build tools 4.2.1-2 win32-x64
+- gnu mcu eclipse 2021 06 R win32 x64
 
 ## Instuctions
 Instructions to start building project in eclipse:
